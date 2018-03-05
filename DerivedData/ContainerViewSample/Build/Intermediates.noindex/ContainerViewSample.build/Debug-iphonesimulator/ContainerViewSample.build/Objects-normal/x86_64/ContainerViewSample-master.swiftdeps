@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "7cb2f54db50cce1014bf13872d2fb632"
+build_time: [1520240330, 705068000]
+inputs:
+  "/Users/arbenjusufhayati/Documents/My iPhone Codes/ContainerViewSample/ContainerViewSample/ViewController.swift": [1520240324, 0]
+  "/Users/arbenjusufhayati/Documents/My iPhone Codes/ContainerViewSample/ContainerViewSample/AppDelegate.swift": [1520240324, 0]
